@@ -1,0 +1,9 @@
+Building DaMaCoin
+
+See doc/readme-qt.rst for instructions on building DaMaCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DaMaCoin.
+
+See doc/build-*.txt for instructions on building damacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of DaMaCoin.
