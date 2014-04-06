@@ -1196,6 +1196,8 @@ static const char *strMainNetDNSSeed[][2] = {
     {"seed2.damacoin.org", "seed2.damacoin.org"},
     {"seed3.damacoin.org", "seed3.damacoin.org"},
     {"seed4.damacoin.org", "seed4.damacoin.org"},
+	{"seed5.damacoin.org", "seed5.damacoin.org"},
+    {"seed6.damacoin.org", "seed6.damacoin.org"},
     {NULL, NULL}
 };
 
@@ -1204,6 +1206,8 @@ static const char *strTestNetDNSSeed[][2] = {
     {"seed2.damacoin.org", "seed2.damacoin.org"},
     {"seed3.damacoin.org", "seed3.damacoin.org"},
     {"seed4.damacoin.org", "seed4.damacoin.org"},
+    {"seed5.damacoin.org", "seed5.damacoin.org"},
+    {"seed6.damacoin.org", "seed6.damacoin.org"},
     {NULL, NULL}
 };
 
