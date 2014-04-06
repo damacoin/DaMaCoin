@@ -8,7 +8,7 @@ Copyright (c) 2014-2014 DaMaCoin Developers
 
 What is DaMaCoin?
 
-DMC VERSOIN V0.9.1.0
+DAMA VERSOIN V0.9.1.0
 
 Specifications 
 
